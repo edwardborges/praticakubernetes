@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 POST http://localhost:8080/api/post
+=======
+POST http://localhost:4503/api/post
+>>>>>>> 0e8d6c89847d44512c48bd214f4f91d9b4be05a0
 Content-Type: application/json
 
 {
